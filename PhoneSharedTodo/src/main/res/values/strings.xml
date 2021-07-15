@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Todos</string>
+    <string name="shared_todos" />
+    <string name="email" />
+    <string name="password" />
+    <string name="login" />
+    <string name="sign_up" />
+</resources>

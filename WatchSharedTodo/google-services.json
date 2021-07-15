@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "795191632778",
+    "project_id": "project-1-shared-todos",
+    "storage_bucket": "project-1-shared-todos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795191632778:android:a69ee903d782d02d43de73",
+        "android_client_info": {
+          "package_name": "com.danieldickeytodosharedproject1.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795191632778-66tdh29onislm8fvfnddqdhrppoqtuv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8__5hsE7XQMdNDMOQy7tsp_wDrj8j-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795191632778-66tdh29onislm8fvfnddqdhrppoqtuv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795191632778:android:7bb6fa5167e5e72c43de73",
+        "android_client_info": {
+          "package_name": "com.danieldickeytodosharedproject1.watchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795191632778-66tdh29onislm8fvfnddqdhrppoqtuv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG8__5hsE7XQMdNDMOQy7tsp_wDrj8j-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795191632778-66tdh29onislm8fvfnddqdhrppoqtuv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+include ':WatchSharedTodo'
+include ':APISharedTodo'
+include ':PhoneSharedTodo'
+rootProject.name = "Shared To-do List"
